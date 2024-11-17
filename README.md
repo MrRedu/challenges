@@ -1,4 +1,6 @@
-# Challenges
+<h1 align="center">Challenges</h1>
+
+![thumb-1920-302542](https://github.com/user-attachments/assets/242803a2-ab86-4a1f-a5f0-4e6a9d1a108e)
 
 Welcome to my GitHub repository dedicated to coding challenges! This repository serves as a collection of my solutions to various programming challenges.
 
@@ -21,3 +23,6 @@ Welcome to my GitHub repository dedicated to coding challenges! This repository 
 
 ### Future Plans
 I plan to continue enhancing my JavaScript skills and will update this repository with additional projects and challenges as I progress.
+
+> [!IMPORTANT]  
+> Please note that I do not take responsibility for how you use or implement these solutions. These are provided for educational purposes only. Use them at your own discretion!
