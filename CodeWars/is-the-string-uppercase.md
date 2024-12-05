@@ -31,9 +31,10 @@ String.prototype.isUpperCase = function () {
   <summary>
     <h3>Result</h3>
   </summary>
-  <pre><code class="language-js">
+  
+```js
 String.prototype.isUpperCase = function () {
   return this.toString() === this.toUpperCase();
 };
-  </code></pre>
+```
 </details>
