@@ -1,3 +1,5 @@
+# Draw stairs
+
 Given a number `n`, draw stairs using the letter `"I"`, `n` tall and `n` wide, with the tallest in the top left.
 
 For example `n = 3` result in:
@@ -28,7 +30,10 @@ I
 
 <hr>
 
-### Result
+<details>
+  <summary>
+    <h3>Result</h3>
+  </summary>
 
 ```js
 function drawStairs(n) {
@@ -38,3 +43,5 @@ function drawStairs(n) {
     .join("\n");
 }
 ```
+
+</details>

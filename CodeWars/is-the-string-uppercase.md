@@ -1,4 +1,4 @@
-Is the string uppercase?
+# Is the string uppercase?
 
 **Task**
 
@@ -19,22 +19,15 @@ In this Kata, a string is said to be in ALL CAPS whenever it does not contain an
 
 <hr>
 
-### Result
-
-```js
-String.prototype.isUpperCase = function () {
-  return this.toString() === this.toUpperCase();
-};
-```
-
 <details>
   <summary>
     <h3>Result</h3>
   </summary>
-  
+
 ```js
 String.prototype.isUpperCase = function () {
   return this.toString() === this.toUpperCase();
 };
 ```
+
 </details>
