@@ -17,7 +17,7 @@ Note: Your answer should always be 6 characters long, the shorthand with 3 will 
 
 <details>
   <summary>
-    <h3>Result</h3>
+    <h3>Solution</h3>
   </summary>
 
 ```js

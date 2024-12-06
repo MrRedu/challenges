@@ -14,7 +14,7 @@ In this kata you will create a function that takes a list of non-negative intege
 
 <details>
   <summary>
-    <h3>Result</h3>
+    <h3>Solution</h3>
   </summary>
 
 ```js

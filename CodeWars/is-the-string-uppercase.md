@@ -21,7 +21,7 @@ In this Kata, a string is said to be in ALL CAPS whenever it does not contain an
 
 <details>
   <summary>
-    <h3>Result</h3>
+    <h3>Solution</h3>
   </summary>
 
 ```js

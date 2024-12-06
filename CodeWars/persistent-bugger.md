@@ -14,7 +14,7 @@ For example **(Input --> Output)**:
 
 <details>
   <summary>
-    <h3>Result</h3>
+    <h3>Solution</h3>
   </summary>
 
 ```js

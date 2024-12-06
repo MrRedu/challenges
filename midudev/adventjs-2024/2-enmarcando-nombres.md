@@ -40,7 +40,7 @@ createFrame(['a', 'bb', 'ccc', 'dddd'])
 
 <hr>
 
-### Respuesta
+### Solution
 
 ```js
 function createFrame(names) {

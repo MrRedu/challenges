@@ -15,7 +15,7 @@ Examples:(Input1, Input2 --> Output (explanation)))
 
 <details>
   <summary>
-    <h3>Result</h3>
+    <h3>Solution</h3>
   </summary>
 
 ```js

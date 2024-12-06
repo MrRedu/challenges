@@ -8,7 +8,7 @@ String will never be empty and you do not need to account for different data typ
 
 <details>
   <summary>
-    <h3>Result</h3>
+    <h3>Solution</h3>
   </summary>
 
 ```js

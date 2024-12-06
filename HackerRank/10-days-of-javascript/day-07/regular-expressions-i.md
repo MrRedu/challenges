@@ -61,7 +61,7 @@ This string starts with the vowel `a` but ends in the vowel `o`.
 
 <details>
   <summary>
-    <h3>Result</h3>
+    <h3>Solution</h3>
   </summary>
 
 ```js
