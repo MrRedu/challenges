@@ -77,9 +77,6 @@ function regexVar() {
    */
   return re;
 }
+```
 
 </details>
-
-
-
-```
