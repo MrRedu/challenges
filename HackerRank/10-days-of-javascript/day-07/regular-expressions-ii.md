@@ -70,7 +70,7 @@ function regexVar() {
    * followed by one or more letters.
    */
 
-  const re = /^(Mr\.|Mrs\.|Ms.\|Dr\.|Er\.).*/;
+  const re = /^(Mr\.|Mrs\.|Ms\.|Dr\.|Er\.)([a-zA-Z]+)$/;
 
   /*
    * Do not remove the return statement
